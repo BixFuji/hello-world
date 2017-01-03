@@ -1,2 +1,3 @@
 # hello-world
-My First Directory
+My First Directory: 
+Just a well-read punk peasant
